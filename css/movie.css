@@ -18,7 +18,7 @@ body::before {
   content: "";
   position: fixed;
   inset: 0;
-  background-image: url('images/movie.jpeg');
+  background-image: url('../images/movie.jpeg');
   background-position: center bottom;
   background-size: cover;
   z-index: -2;
@@ -307,3 +307,4 @@ body::after {
     transform: perspective(1000px) rotateX(0deg) scale(1.05);
     box-shadow: 0 18px 50px rgb(0, 0, 0);
 }
+
