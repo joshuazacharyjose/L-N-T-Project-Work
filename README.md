@@ -1,11 +1,10 @@
 # L&T Project Assignment
 <hr>
-This repository holds the project files for the HTML and CSS assignments, assigned from the L&amp;T EduTech company. The two projects worked on are:
+This repository holds the project files for the HTML and CSS assignment, assigned from the L&amp;T EduTech company. The project displayed here is:
 
 - Movie Info Website
-- Music Band Info Website
 
-The contributors to these projects are:
+The contributors to this project are:
 
 - [Ankit Pai](https://github.com/Jacksss-hub)
 - [Evan K S](https://github.com/EVAN-KS)
