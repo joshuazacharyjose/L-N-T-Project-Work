@@ -7,5 +7,6 @@ This repository holds the project files for the HTML and CSS assignments, assign
 
 The contributors to these projects are:
 
-- @Ankit
-- @EVAN-KS
+- [Ankit Pai]
+- [Evan K S](https://github.com/EVAN-KS)
+- [Joshua Zachary Jose](https://github.com/joshuazacharyjose)
